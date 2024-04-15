@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PlanetLanding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlanetLanding_jar</output-path>
+    <root id="archive" name="PlanetLanding.jar">
+      <element id="module-output" name="PlanetLanding" />
+    </root>
+  </artifact>
+</component>
